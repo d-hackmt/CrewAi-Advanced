@@ -44,7 +44,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/sourangshupal/crewai-advanced.git
+git clone https://github.com/d-hackmt/CrewAi-Advanced.git
 cd your-repo-name
 ```
 
@@ -113,4 +113,5 @@ Give a ⭐️ if this project helped you!
 <div align="center">
 Made with ❤️
 </div>
+
 
